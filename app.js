@@ -1,6 +1,6 @@
 //it will contain our express app
 
-const express = require('express')
+const express = require('express');
 
 const app = express();
 //running express to create our app
